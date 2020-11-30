@@ -574,8 +574,8 @@ class AutonomousVehicle(ControlledVehicle):
 
         :param action: the action
         """
-        #if self.crashed:
-        #    return
+        if self.crashed:
+            return
         action = {}
         front_vehicle, rear_vehicle = self.road.neighbour_vehicles(self)
         # Lateral: MOBIL
