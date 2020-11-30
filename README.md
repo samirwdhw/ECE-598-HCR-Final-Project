@@ -260,4 +260,3 @@ This agent can only be used with environments that provide a cost signal in thei
 
 Reference: [Budgeted Reinforcement Learning in Continuous State Space](https://arxiv.org/abs/1903.01004), Carrara N., Leurent E., Laroche R., Urvoy T., Maillard O-A., Pietquin O. (2019).
 
-```
