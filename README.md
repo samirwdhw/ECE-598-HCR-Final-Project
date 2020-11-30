@@ -260,16 +260,4 @@ This agent can only be used with environments that provide a cost signal in thei
 
 Reference: [Budgeted Reinforcement Learning in Continuous State Space](https://arxiv.org/abs/1903.01004), Carrara N., Leurent E., Laroche R., Urvoy T., Maillard O-A., Pietquin O. (2019).
 
-# Citing
-
-If you use this project in your work, please consider citing it with:
-```
-@misc{rl-agents,
-  author = {Leurent, Edouard},
-  title = {rl-agents: Implementations of Reinforcement Learning algorithms},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/eleurent/rl-agents}},
-}
 ```
